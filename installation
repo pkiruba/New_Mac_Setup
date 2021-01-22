@@ -1,4 +1,4 @@
-# Installed Xcode
+# Install Xcode
 xcode-select --install
 
 # Homebrew (all the files were created in this dir /opt/homebrew/)
