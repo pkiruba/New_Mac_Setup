@@ -10,6 +10,6 @@ brew install --cask discord
 brew install --cask zoom
 brew install --cask skype
 brew install --cask dropbox
-brew install --cask onedrive
+# brew install --cask onedrive
 brew install --cask slack
-
+brew install --cask iterm2
