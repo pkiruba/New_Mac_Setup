@@ -1,2 +1,2 @@
-# New_Mac_Setup
+# New Mac Setup
 Mac package install
