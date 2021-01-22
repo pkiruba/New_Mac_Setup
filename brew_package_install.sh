@@ -13,3 +13,4 @@ brew install --cask dropbox
 # brew install --cask onedrive
 brew install --cask slack
 brew install --cask iterm2
+brew install wget
