@@ -1,0 +1,7 @@
+# Installed Xcode
+xcode-select --install
+
+# Homebrew (all the files were created in this dir /opt/homebrew/)
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
+# 
