@@ -12,7 +12,8 @@ brew install --cask discord
 brew install --cask zoom
 brew install --cask skype
 brew install --cask dropbox
-# brew install --cask onedrive
+# Password may require to install OneDrive as well as Rosetta 2 for M1 processor
+brew install --cask onedrive
 brew install --cask slack
 brew install --cask iterm2
 
