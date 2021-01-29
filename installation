@@ -6,3 +6,6 @@ xcode-select --install
 
 # Add the Homebrew bin directory to the PATH.
 echo "export PATH=/opt/homebrew/bin:$PATH" >> ~/.zshrc 
+
+# Most package requires Rosetta 2 to be installed in M1 processor
+sudo softwareupdate --install-rosetta
