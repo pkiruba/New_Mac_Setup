@@ -19,4 +19,5 @@ brew install --cask iterm2
 # Require Rosetta 2 for M1 processor. After installation setup the shell by `conda init zsh`
 brew install --cask miniconda # Miniconda3-py38_4.9.2-MacOSX-x86_64.sh
 brew install --cask visual-studio-code
+# Password may require to install microsoft-teams
 brew install --cask microsoft-teams
