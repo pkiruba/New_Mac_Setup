@@ -8,6 +8,7 @@ brew install wget
 brew install --cask google-chrome
 brew install --cask firefox
 brew install --cask discord
+# Password may require to install zoom
 brew install --cask zoom
 brew install --cask skype
 brew install --cask dropbox
