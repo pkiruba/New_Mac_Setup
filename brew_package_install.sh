@@ -21,3 +21,4 @@ brew install --cask miniconda # Miniconda3-py38_4.9.2-MacOSX-x86_64.sh
 brew install --cask visual-studio-code
 # Password may require to install microsoft-teams
 brew install --cask microsoft-teams
+brew install --cask evernote
