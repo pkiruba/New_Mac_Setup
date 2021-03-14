@@ -22,3 +22,6 @@ brew install --cask visual-studio-code
 # Password may require to install microsoft-teams
 brew install --cask microsoft-teams
 brew install --cask evernote
+
+# EMBOSS
+brew install brewsci/bio/emboss
